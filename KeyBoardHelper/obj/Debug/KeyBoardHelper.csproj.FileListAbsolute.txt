@@ -1,0 +1,13 @@
+D:\KeyBoardHelper\KeyBoardHelper\bin\Debug\KeyBoardHelper.exe
+D:\KeyBoardHelper\KeyBoardHelper\bin\Debug\KeyBoardHelper.pdb
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\MainWindow.g.cs
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\App.g.cs
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper_MarkupCompile.cache
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\MainWindow.baml
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.g.resources
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.Properties.Resources.resources
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.csproj.GenerateResource.cache
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.csproj.CoreCompileInputs.cache
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.exe
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.pdb
+D:\KeyBoardHelper\KeyBoardHelper\obj\Debug\KeyBoardHelper.csprojAssemblyReference.cache
