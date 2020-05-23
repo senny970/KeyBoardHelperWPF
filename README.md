@@ -1,2 +1,2 @@
 # KeyBoardHelperWPF
-KeyBoardHelper WPF
+Unfinished KeyBoardHelper WPF project.
